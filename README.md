@@ -8,4 +8,9 @@ Relative move: controlling with a value forward or backward from the previous po
 
 Absolute move: controlling forward or backward to a certain position.
 
+The position of axis is 0:
+![Image14](https://github.com/user-attachments/assets/e308db97-479c-4e3d-a04a-5b9698ad64f3)
+
+
+
 
