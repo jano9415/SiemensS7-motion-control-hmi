@@ -1,6 +1,8 @@
 # SiemensS7-motion-control-hmi
 In this project I use a Siemens servo motor to move an axis.
-The servo motor can be controlled with with three different ways.
+The servo motor can be controlled with with four different ways.
+
+Jog: controlling forward or backward while pushing the button Jog+ or Jog-
 
 Move with velocity: controlling with a constant velocity forward or backward.
 
@@ -15,8 +17,12 @@ The position of axis is 0:
 The axis moves forward with velocity 18:
 ![Image15](https://github.com/user-attachments/assets/7b5a9dcb-7d36-400b-be4c-ff9c6512960b)
 
-The axis moves from home position to position 164 after typing 164 in the input field and clicking Absolute ON button:
+The axis moves from home position to position 164 after typing 164 in the absolute input field and clicking Absolute ON button:
 ![Image16](https://github.com/user-attachments/assets/90cd8461-de28-4347-ac61-bc32c251b593)
+
+The axis moves from position 164 to positin 146 after typing -20 in the relative input field and clicking the Relative ON button:
+![Image17](https://github.com/user-attachments/assets/28c3bb0f-5084-4a04-8f61-d2808bea6966)
+
 
 
 
