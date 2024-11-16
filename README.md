@@ -16,7 +16,7 @@ The position of axis is 0:
 ![Image14](https://github.com/user-attachments/assets/e308db97-479c-4e3d-a04a-5b9698ad64f3)
 
 
-The axis moves forward with velocity 18:
+The axis moves forward with velocity 18 after typing 18 in the velocity input field and clicking Velocity ON button:
 ![Image15](https://github.com/user-attachments/assets/7b5a9dcb-7d36-400b-be4c-ff9c6512960b)
 
 The axis moves from home position to position 164 after typing 164 in the absolute input field and clicking Absolute ON button:
