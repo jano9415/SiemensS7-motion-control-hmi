@@ -27,7 +27,16 @@ The axis moves from position 164 to position 146 after typing -20 in the relativ
 
 Automatic mode:
 ![Image18](https://github.com/user-attachments/assets/10aeb422-a42d-450a-9ee3-4b3c5a0cbffc)
-There is Sensor1 to detect the product on the conveyor and Cylinder1 attached to the axis to grab the product.7
+There is Sensor1 to detect the product on the conveyor and Cylinder1 attached to the axis to grab the product.
+
+If the Sensor1 detects the product the axis is moved to position 251. The absolute value variable is set 251 and execute absolute move variable is set true.
+![Image19](https://github.com/user-attachments/assets/51cce9f4-1409-4fe2-9178-9b82488aca2a)
+
+If the axis reached position 251 and Sensor1 is active, Cylinder1 moves forward to grab the product:
+![Image20](https://github.com/user-attachments/assets/e0dba987-59e4-45c4-8a08-9560df5ccc04)
+
+
+
 
 
 
