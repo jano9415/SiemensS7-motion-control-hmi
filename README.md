@@ -32,8 +32,12 @@ There is Sensor1 to detect the product on the conveyor and Cylinder1 attached to
 If the Sensor1 detects the product the axis is moved to position 251. The absolute value variable is set 251 and execute absolute move variable is set true.
 ![Image19](https://github.com/user-attachments/assets/51cce9f4-1409-4fe2-9178-9b82488aca2a)
 
-If the axis reached position 251 and Sensor1 is active, Cylinder1 moves forward to grab the product:
+If the axis reached position 251 and Sensor1 is active, Cylinder1 moves forward to grasp the product:
 ![Image20](https://github.com/user-attachments/assets/e0dba987-59e4-45c4-8a08-9560df5ccc04)
+
+If the position of axis is 251 but Sensor1 is not active, Cylinder1 doesn't move:
+![Image22](https://github.com/user-attachments/assets/08b97ac8-190f-48b7-964c-2bd51d5ed0fb)
+
 
 
 
