@@ -1,6 +1,8 @@
 # SiemensS7-motion-control-hmi
 In this project I use a Siemens servo motor to move an axis.
-The servo motor can be controlled with with four different ways.
+The servo motor can be controlled manually in five different ways.
+
+Home: controlling to the home position.
 
 Jog: controlling forward or backward while pushing the button Jog+ or Jog-
 
@@ -20,8 +22,15 @@ The axis moves forward with velocity 18:
 The axis moves from home position to position 164 after typing 164 in the absolute input field and clicking Absolute ON button:
 ![Image16](https://github.com/user-attachments/assets/90cd8461-de28-4347-ac61-bc32c251b593)
 
-The axis moves from position 164 to positin 146 after typing -20 in the relative input field and clicking the Relative ON button:
+The axis moves from position 164 to position 146 after typing -20 in the relative input field and clicking the Relative ON button:
 ![Image17](https://github.com/user-attachments/assets/28c3bb0f-5084-4a04-8f61-d2808bea6966)
+
+Automatic mode:
+![Image18](https://github.com/user-attachments/assets/10aeb422-a42d-450a-9ee3-4b3c5a0cbffc)
+There is Sensor1 to detect the product on the conveyor and Cylinder1 attached to the axis to grab the product.7
+
+
+
 
 
 
